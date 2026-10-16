@@ -47,7 +47,9 @@ The automation script utilizes and interacts with these core shortcut mappings i
 * **Create new GRV:** `Ctrl + C`
 * **New stock inside GRV:** `Ctrl + N`
 * **New supplier:** `Ctrl + U`
+* **Close Button:** `Ctrl + L`
 * **Process GRV:** `Ctrl + V`
+* **Save:** `Ctrl + S`
 
 ---
 
